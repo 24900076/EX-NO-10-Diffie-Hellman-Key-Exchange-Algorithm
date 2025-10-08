@@ -1,8 +1,8 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
 
 
-## NAME:Mohammed Faizal J
-## REG NO:212222100027
+## NAME:SAIPRASATH.P
+## REG NO:212224230238
 
 
 ## AIM:
